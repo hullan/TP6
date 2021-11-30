@@ -1,0 +1,39 @@
+fecha/hora;aplicacion;usuario;contenido
+30-11-2021 19:44:39;Twitter Media Studio;OG;T..Topson  Is that you    https://t.co/RFPkdyV8vr
+30-11-2021 19:42:49;Twitter Web App;Team Secret;The longest chase ever  #SecretDota https://t.co/IPIeRE9Yq1
+30-11-2021 19:39:00;TweetDeck;Polic a Nacional; Esta preciosidad est  buscando una familia que le de cariño    Se llama Hindio  Es un springer de 1 año  Es mu  https://t.co/He5KtMLtxK
+30-11-2021 19:36:00;Twitter Web App;DreamHack Spain;La gente de @idealo_es no s lo te hacen ganar con las #idealoCup Gracias a ellos podr s encontrar los mejores pre  https://t.co/eZ51Q7ncsp
+30-11-2021 19:30:17;Twitter Web App;Team Secret;Now those heroes look familiar#SecretDota https://t.co/ZZ30wFWTuj
+30-11-2021 19:27:58;Twitter Web App;OG;Papa Tommy already enjoying the gud stuff @redbullgaming   https://t.co/1Zguq8ZD1s
+30-11-2021 19:25:32;Twitter Web App;OG;Stone cold killer https://t.co/CyT44pNenZ
+30-11-2021 19:21:58;Twitter Web App;Team Secret;Had to switch on the lights for game 2  #SecretDota https://t.co/aUyqfsOhlV
+30-11-2021 19:17:38;Twitter Web App;OG;GAME 2 IS LIVE, LET S GO   https://t.co/LPs8nyZ9Ps#DreamOG https://t.co/HI9D6k03TO
+30-11-2021 19:15:13;Twitter Web App;OG;LOL https://t.co/R0nGqiLB8o
+30-11-2021 19:14:32;Twitter for Android;OG;@teamsecret Razor carry 100  winrate in Div1, what year is this
+30-11-2021 19:11:53;Twitter Web App;OG;MY BOYS https://t.co/nVf6ilsc6c
+30-11-2021 19:10:36;Twitter for Android;Jes s Calleja;Llegar a casa y conocer a un nuevo miembro de la familia  esta casa es una aut ntica felicidad Damos la bienvenida  https://t.co/VDpLYm6WAQ
+30-11-2021 19:09:46;Twitter Web App;Team Secret;@OGesports Manta Timber 100  winrate this season, stats don t lie
+30-11-2021 19:07:53;Twitter Web App;Danil Ishutin;OMG those matches  awesome to watch o//
+30-11-2021 19:07:41;Twitter Web App;OG;Manta Timber is legit guys  
+30-11-2021 19:05:28;Twitter Web App;Team Secret; You re fighting kids, you ll be alright   The kids: https://t.co/9NCFfsYTvh
+30-11-2021 19:04:22;Twitter Web App;OG;THE AMMAR SHOW#DreamOG https://t.co/sV6hVIndXn
+30-11-2021 19:03:40;Twitter Web App;OG;https://t.co/6gpbJ9Zo1x
+30-11-2021 19:51:00;Twitter Web App;OG;https://t.co/wDy9dWhcH8
+30-11-2021 19:48:25;Twitter Web App;OG;WE RE DOING IT DADDY @OG_BDN0tail   https://t.co/1Mvm7yMHFf
+30-11-2021 19:47:45;Twitter for Android;Real Zaragoza    ;   Mensaje de cariño a La Palma en las camisetas del encuentro de #CopaDelRey ante el @CDMensajero y recaudaci n so  https://t.co/KeGsBWGCBf
+30-11-2021 19:44:39;Twitter Media Studio;OG;T..Topson  Is that you    https://t.co/RFPkdyV8vr
+30-11-2021 19:42:49;Twitter Web App;Team Secret;The longest chase ever  #SecretDota https://t.co/IPIeRE9Yq1
+30-11-2021 19:39:00;TweetDeck;Polic a Nacional; Esta preciosidad est  buscando una familia que le de cariño    Se llama Hindio  Es un springer de 1 año  Es mu  https://t.co/He5KtMLtxK
+30-11-2021 19:36:00;Twitter Web App;DreamHack Spain;La gente de @idealo_es no s lo te hacen ganar con las #idealoCup Gracias a ellos podr s encontrar los mejores pre  https://t.co/eZ51Q7ncsp
+30-11-2021 19:30:17;Twitter Web App;Team Secret;Now those heroes look familiar#SecretDota https://t.co/ZZ30wFWTuj
+30-11-2021 19:27:58;Twitter Web App;OG;Papa Tommy already enjoying the gud stuff @redbullgaming   https://t.co/1Zguq8ZD1s
+30-11-2021 19:25:32;Twitter Web App;OG;Stone cold killer https://t.co/CyT44pNenZ
+30-11-2021 19:21:58;Twitter Web App;Team Secret;Had to switch on the lights for game 2  #SecretDota https://t.co/aUyqfsOhlV
+30-11-2021 19:17:38;Twitter Web App;OG;GAME 2 IS LIVE, LET S GO   https://t.co/LPs8nyZ9Ps#DreamOG https://t.co/HI9D6k03TO
+30-11-2021 19:15:13;Twitter Web App;OG;LOL https://t.co/R0nGqiLB8o
+30-11-2021 19:14:32;Twitter for Android;OG;@teamsecret Razor carry 100  winrate in Div1, what year is this
+30-11-2021 19:11:53;Twitter Web App;OG;MY BOYS https://t.co/nVf6ilsc6c
+30-11-2021 19:10:36;Twitter for Android;Jes s Calleja;Llegar a casa y conocer a un nuevo miembro de la familia  esta casa es una aut ntica felicidad Damos la bienvenida  https://t.co/VDpLYm6WAQ
+30-11-2021 19:09:46;Twitter Web App;Team Secret;@OGesports Manta Timber 100  winrate this season, stats don t lie
+30-11-2021 19:07:53;Twitter Web App;Danil Ishutin;OMG those matches  awesome to watch o//
+30-11-2021 19:07:41;Twitter Web App;OG;Manta Timber is legit guys  
