@@ -37,3 +37,7 @@ fecha/hora;aplicacion;usuario;contenido
 30-11-2021 19:09:46;Twitter Web App;Team Secret;@OGesports Manta Timber 100% winrate this season, stats don't lie
 30-11-2021 19:07:53;Twitter Web App;Danil Ishutin;OMG those matches! awesome to watch o//
 30-11-2021 19:07:41;Twitter Web App;OG;Manta Timber is legit guys ✅
+Twitter Web App;OG;Manta Timber is legit guys 
+OG;Manta Timber is legit guys ✅✅
+Manta Timber is legit guys ✅
+30-11-2021 19:07:41;Twitter Web App;OG;Manta Timber is legit guys ✅;caca
