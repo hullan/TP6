@@ -1,20 +1,14 @@
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
-
 public class Example {
     public static void main(String[] args) {
-        final String regex = "#[^\\s]+";
-        final String string = "#lapalma carapene #cacaculo ";
-        
-        final Pattern pattern = Pattern.compile(regex, Pattern.MULTILINE);
-        final Matcher matcher = pattern.matcher(string);
-        
-        while (matcher.find()) {
-            System.out.println("Full match: " + matcher.group(0));
-            
-            for (int i = 1; i <= matcher.groupCount(); i++) {
-                System.out.println("Group " + i + ": " + matcher.group(i));
-            }
-        }
+    	String s1 = "#VigilanciaLaPalma";
+    	String s2[] = new String[1];
+    	s2[0] = "#vigilancialapalma";
+    	
+    	if (s1.equalsIgnoreCase(s2[0])) {
+    		System.out.println();
+    		System.out.println("Las cadenas son iguales");
+    	}
+    	
+    	
     }
 }
